@@ -1,0 +1,10 @@
+{
+  "name": "tsv-to-csv",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "devDependencies": {
+    "iconv-lite": "^0.5.0"
+  }
+}
